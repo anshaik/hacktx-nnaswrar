@@ -1,7 +1,9 @@
 import contextio as c
 
-CONSUMER_KEY = 'hacktx-2014-nasawar@outlook.com'
-CONSUMER_SECRET = '54430b38b9f7091255e9affb'
+# not sure what CONSUMER_KEY and CONSUMER_SECRET consist of. 
+# TODO: figure this out later. 
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 context_io = c.ContextIO(
     consumer_key=CONSUMER_KEY, 
