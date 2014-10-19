@@ -1,0 +1,11 @@
+contextio-v2.0-client-library==1.1.1
+ipython==2.3.0
+oauthlib==0.6.3
+pyreadline==2.0
+rauth==0.7.0
+requests==2.4.3
+requests-oauthlib==0.4.2
+sendgrid==1.1.2
+smtpapi==0.1.2
+unittest2==0.5.1
+virtualenv==1.11.6
