@@ -1,0 +1,70 @@
+{
+  "query": {
+    "limit": 25, 
+    "offset": null, 
+    "active_after": null, 
+    "active_before": null, 
+    "search": null
+  }, 
+  "matches": [
+    {
+      "email": "anniethegrouch@gmail.com", 
+      "count": 1, 
+      "received_count": 0, 
+      "sent_count": 1, 
+      "sent_from_account_count": 1, 
+      "name": "anniethegrouch@gmail.com", 
+      "thumbnail": "https://secure.gravatar.com/avatar/744de728408065baee4660d7cc350cf5?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/anniethegrouch@gmail.com"
+    }, 
+    {
+      "email": "anshaik@hotmail.com", 
+      "count": 1, 
+      "received_count": 0, 
+      "sent_count": 1, 
+      "sent_from_account_count": 1, 
+      "name": "anshaik@hotmail.com", 
+      "thumbnail": "https://secure.gravatar.com/avatar/50bf6da55c0f25b02472f80aabb033e3?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/anshaik@hotmail.com"
+    }, 
+    {
+      "email": "member_services@outlook.com", 
+      "count": 1, 
+      "received_count": 1, 
+      "sent_count": 0, 
+      "sent_from_account_count": 0, 
+      "name": "Outlook.com Team", 
+      "thumbnail": "https://secure.gravatar.com/avatar/c28fa26fc5283cb497b3955cf93d2ca4?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/member_services@outlook.com"
+    }, 
+    {
+      "email": "noemiekpn@gmail.com", 
+      "count": 1, 
+      "received_count": 0, 
+      "sent_count": 1, 
+      "sent_from_account_count": 1, 
+      "name": "noemiekpn@gmail.com", 
+      "thumbnail": "https://secure.gravatar.com/avatar/af1c3323ab398362e52ff1a5b73f05bf?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/noemiekpn@gmail.com"
+    }, 
+    {
+      "email": "postmaster@mail.hotmail.com", 
+      "count": 1, 
+      "received_count": 1, 
+      "sent_count": 0, 
+      "sent_from_account_count": 0, 
+      "thumbnail": "https://secure.gravatar.com/avatar/ec34dd357adb8075c2f501daa82d11d8?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/postmaster@mail.hotmail.com"
+    }, 
+    {
+      "email": "wretzloff@gmail.com", 
+      "count": 1, 
+      "received_count": 0, 
+      "sent_count": 1, 
+      "sent_from_account_count": 1, 
+      "name": "wretzloff@gmail.com", 
+      "thumbnail": "https://secure.gravatar.com/avatar/dd0f3bfa534497111809d9ee8b679e97?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
+      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/wretzloff@gmail.com"
+    }
+  ]
+}
