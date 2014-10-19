@@ -1,6 +1,8 @@
 header {
 	background-color: #2a2a35;
 	box-shadow: 0 3px 10px #555555;
+	font-family: GENISO;
+	font-color: e6e6e6;
 	height: 70px;
 	width: 100%;
 }
@@ -15,8 +17,8 @@ body {
 	background-repeat: no-repeat;
 	float: left;
 	height: 65px;
-	margin-left: 10px;
-	width: 60px;
+	margin: 5px 10px;
+	width: 65px;
 }
 
 .sprite {
