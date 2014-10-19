@@ -13,12 +13,27 @@ header {
 	width: 100%;
 }
 
-header > div {
+header #header-title {
+	float: left;
 	padding: 10px 30px;
 }
 
-header > div > span {
-	font-size: 24pt;
+header #user {
+	float: right;
+	padding: 10px 30px;
+	
+}
+
+header #user > span {
+	font-size: 16pt; 
+	padding: 20px;
+}
+
+header #user-logo {
+	background-position: -525px -27px;
+	height: 60px;
+	float: left;
+	width: 60px;
 }
 
 body {
