@@ -26,6 +26,6 @@ body {
 }
 
 #world-map {
-	float: center;
-	margin-top: 20px;
+	float: left;
+	margin: 5% 18%;
 }
