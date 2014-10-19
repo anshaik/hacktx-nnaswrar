@@ -10,7 +10,20 @@ body {
 	margin: 0;
 }
 
-#world-map {
+
+.button {
+	background-repeat: no-repeat;
 	float: left;
-	margin: 10px 0 0 50%;
+	height: 65px;
+	margin-left: 10px;
+	width: 60px;
+}
+
+.sprite {
+	background-image: url(../img/sprite.png);
+}
+
+#world-map {
+	float: center;
+	margin-top: 20px;
 }
