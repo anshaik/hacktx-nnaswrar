@@ -28,16 +28,6 @@
       "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/anshaik@hotmail.com"
     }, 
     {
-      "email": "member_services@outlook.com", 
-      "count": 1, 
-      "received_count": 1, 
-      "sent_count": 0, 
-      "sent_from_account_count": 0, 
-      "name": "Outlook.com Team", 
-      "thumbnail": "https://secure.gravatar.com/avatar/c28fa26fc5283cb497b3955cf93d2ca4?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
-      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/member_services@outlook.com"
-    }, 
-    {
       "email": "noemiekpn@gmail.com", 
       "count": 1, 
       "received_count": 0, 
@@ -46,15 +36,6 @@
       "name": "noemiekpn@gmail.com", 
       "thumbnail": "https://secure.gravatar.com/avatar/af1c3323ab398362e52ff1a5b73f05bf?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
       "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/noemiekpn@gmail.com"
-    }, 
-    {
-      "email": "postmaster@mail.hotmail.com", 
-      "count": 1, 
-      "received_count": 1, 
-      "sent_count": 0, 
-      "sent_from_account_count": 0, 
-      "thumbnail": "https://secure.gravatar.com/avatar/ec34dd357adb8075c2f501daa82d11d8?s=50&d=https%3A%2F%2Fs3.amazonaws.com%2Fcontextio-icons%2Fcontact.png", 
-      "resource_url": "https://api.context.io/2.0/accounts/54430b38b9f7091255e9affb/contacts/postmaster@mail.hotmail.com"
     }, 
     {
       "email": "wretzloff@gmail.com", 
