@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--BUILD-DATE 10/18/2014 11:50 PM EDT-->
+<rss version="2.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005">
+  <channel>
+    <cf:treatAs>list</cf:treatAs>
+    <title>USATODAY.com RSS Feed</title>
+    <link>http://www.usatoday.com</link>
+    <description>http://www.usatoday.com</description>
+    <language>en-us</language>
+    <copyright>Copyright 2014, USATODAY.com, USA TODAY</copyright>
+    <lastBuildDate>Sun, 19 Oct 2014 03:50:03 GMT</lastBuildDate>
+    <image>
+      <title>USATODAY.com</title>
+      <width>135</width>
+      <height>20</height>
+      <link>http://www.usatoday.com</link>
+      <url>http://i.usatoday.net/_common/_images/usatodaycom_135x20.gif</url>
+    </image>
+    <cf:listinfo>
+      <cf:sort element="pubDate" data-type="date" label="Date/Time Order" default="false" />
+      <cf:sort element="title" data-type="text" label="Title Order" default="false" />
+    </cf:listinfo>
+    <item>
+      <title>Texas Gov. Rick Perry discusses Ebola response</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40848</link>
+      <pubDate>Fri, 17 Oct 2014 16:26:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40848</guid>
+    </item>
+    <item>
+      <title>Kerry discusses State Dept. response to Ebola</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40833</link>
+      <pubDate>Fri, 17 Oct 2014 14:21:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40833</guid>
+    </item>
+    <item>
+      <title>Florida governor discusses Ebola preparation</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40827</link>
+      <pubDate>Fri, 17 Oct 2014 13:38:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40827</guid>
+    </item>
+    <item>
+      <title>CDC, Dallas hospital testify on Ebola response</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40800</link>
+      <pubDate>Fri, 17 Oct 2014 02:51:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40800</guid>
+    </item>
+    <item>
+      <title>New Ebola patient arrives in Atlanta for treatment</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40800</link>
+      <pubDate>Thu, 16 Oct 2014 23:18:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40800</guid>
+    </item>
+    <item>
+      <title>Ohio officials address Ebola concerns</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40776</link>
+      <pubDate>Thu, 16 Oct 2014 15:04:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40776</guid>
+    </item>
+    <item>
+      <title>Ebola town hall meeting held by WFAA-TV in Dallas</title>
+      <link>http://www.usatoday.com/#livevideoassetid=40725</link>
+      <pubDate>Thu, 16 Oct 2014 00:27:00 GMT</pubDate>
+      <description />
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=40725</guid>
+    </item>
+  </channel>
+</rss>
