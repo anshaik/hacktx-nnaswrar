@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Index Page'
+    return render_template('Index.html')
 
 #Call this function to fetch the statis HTML page.
 #Example: http://127.0.0.1:5000/hello
