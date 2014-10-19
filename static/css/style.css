@@ -1,17 +1,53 @@
+@font-face{
+	font-family: 'GOST';
+	src: url('fonts/GOST_A_.ttf');
+}
+
 header {
 	background-color: #2a2a35;
 	box-shadow: 0 3px 10px #555555;
-	font-family: GENISO;
-	font-color: e6e6e6;
-	height: 70px;
+	color: #e6e6e6;
+	font-family: GOST;
+	font-size: 48pt;
+	height: 100px;
 	width: 100%;
+}
+
+header > div {
+	padding: 10px 30px;
+}
+
+header > div > span {
+	font-size: 24pt;
 }
 
 body {
 	background-color: #e6e6e6;
+	font-family: GOST;
 	margin: 0;
 }
 
+input {
+	background-color: #e6e6e6;
+	border: transparent;
+	font-color: #2a2a35;
+	font-family: GOST;
+	font-size: 24pt;
+	width: 353px;
+}
+
+.button-label {
+	float: left;
+	font-size: 24pt;
+	padding: 17px 14px;
+}
+
+.button-wrapper {
+	float: left;
+	margin: 10px 50px;
+	padding: 0 65px;
+	width: 512px;
+}
 
 .button {
 	background-repeat: no-repeat;
@@ -21,11 +57,17 @@ body {
 	width: 65px;
 }
 
+.left-end {
+	background-position: -316px -27px;
+	float: left;
+	height: 65px;
+	width: 40px;
+}
+
 .sprite {
 	background-image: url(../img/sprite.png);
 }
 
 #world-map {
-	float: left;
 	margin: 5% 18%;
 }

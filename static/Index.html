@@ -4,31 +4,39 @@
 <head>
 	<title>ThreatWire</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	
-	<!-- http://www.netzgesta.de/mapper/ -->
-	<script type="text/javascript" src="js/mapper.js"></script>
-	<script type="text/javascript" src="js/wz_jsgraphics.js"></script>
 </head>
 
 <body>
 	<header>
-		<div>
-			<span>ThreatWire</span>
+		<div id="header-title">
+			ThreatWire
 			<span>discover the risks around you</span>
 		</div>
+		<div id="" class="sprite"></div>
 	</header>
 	<section>
 		<div id="world-map">
-			<img src="img/map.png" class="mapper" usemap="#worldmap">
+			<img src="img/map.png">
 		</div>
-		<div>
+		<div class="button-wrapper">
 			<a href="sickreport.html">
 				<div class="button sprite" style="background-position: -142px -27px"></div>
 			</a>
-		</div>
-		<div>			
-			<div class="button sprite" style="background-position: -669px -27px">
+			<div class="button-label">
+				I'm sick!
 			</div>
+			<div class="sprite left-end" style=""></div>
+		</div>
+		<div class="button-wrapper">			
+			<a href="sickreport.html">
+				<div class="button sprite" style="background-position: -240px -27px"></div>
+			</a>
+			<div class="button-label">
+				<form>
+				  <input type="search" placeholder="I want to look for threats in..." name="threat-search">
+				</form>
+			</div>
+			<div class="sprite left-end" style=""></div>
 		</div>
 	</section>
 </body>
