@@ -1,0 +1,11 @@
+header {
+	background-color: #2a2a35;
+	box-shadow: 0 3px 10px #555555;
+	height: 70px;
+	width: 100%;
+}
+
+body {
+	background-color: #e6e6e6;
+	margin: 0;
+}
