@@ -136,3 +136,35 @@ input {
 	overflow-y: scroll;
 	font-size: 20pt;
 }
+
+#report {
+	margin: 50px 33%;
+	float: left;
+	width: 500px;
+}
+
+button {
+	background-color: #2a2a35;
+	border: none;
+	color: #e6e6e6;
+	font-family: GOST;
+	font-size: 24pt;
+}
+
+#report > form > input {
+	padding: 7px;
+	-webkit-box-shadow: inset -1px 1px 8px 1px #999999;
+	-moz-box-shadow: inset -1px 1px 8px 1px #999999;
+	box-shadow: inset -1px 1px 8px 1px #999999;
+	margin: 20px 0px;
+	width: 500px;
+}
+
+#spread-section {
+	font-size: 24px;
+	float: right;
+}
+
+#spread-section > span {
+	padding: 20px 10px 20px 0px;
+}

@@ -8,12 +8,35 @@
 
 <body>
 	<header>
-		<div>
-			<span>ThreatWire</span>
-			<span>discover the risks around you</span>
+		<div id="header-title">
+			ThreatWire
+			<span style="font-size: 24pt">discover the risks around you</span>
+		</div>
+		<div id="user">
+			<span style="float: left">HackTX Guest</span>
+			<div id="user-logo" class="sprite"></div>
 		</div>
 	</header>
 	<section>
+		<div id="report">
+			<form autocomplete="on">
+				<input type="text" placeholder="I am located in..." name="location" required>
+				<input type="text" placeholder="My sickness is about..." name="disease"required>
+				<input type="text" placeholder="My scope of daily relationship..." name="relation-scope" required>
+			</form>
+			<button type="button" style="width: 150px">REPORT</button>
+			<div id="spread-section">
+				<span style="float: left">Spread it out!</span>
+				<a href=#>
+					<div class="sprite" 
+						 style="background-position: -373px -27px; 
+								height: 60px; 
+								float: left;
+								width: 60px;">
+					</div>
+				</a>
+			</div>
+		</div>
 		
 	</section>
 </body>
